@@ -1,4 +1,4 @@
-# eStreamChat #
+#eStreamChat
 
 ## Overview ##
 
